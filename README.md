@@ -1,4 +1,4 @@
-# Breast Cancer Classification
+# Fashion Class Classification
 This repo consists of the Fashion Class Classification Case Study from Super Data Science's course, Machine Learning Practical: 6 Real-World Applications.
 
 ## Problem Statement
